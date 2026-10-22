@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.ctrlz/
+.DS_Store
